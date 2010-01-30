@@ -1,5 +1,5 @@
 require 'oauth'
-require 'json'
+require 'yaml'
 require 'mime/types'
 
 require 'twitter_oauth/client'
